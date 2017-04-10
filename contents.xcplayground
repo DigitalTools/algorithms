@@ -4,5 +4,6 @@
         <page name='Queue'/>
         <page name='Stack'/>
         <page name='Linked List'/>
+        <page name='Trees'/>
     </pages>
 </playground>
